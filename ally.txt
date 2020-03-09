@@ -1,7 +1,5 @@
 this is ally
 
 this is ally again
-
-ally
-
+again
 again
